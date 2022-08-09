@@ -16,3 +16,4 @@
 - 서울여자대학교 디지털미디어학과 졸업 예정(2018.3 ~ 2022.8)
 
 ### 📚 Stack
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeeyeonn&count_private=true)
