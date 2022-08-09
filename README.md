@@ -1,5 +1,5 @@
 
-<div align=center><h1>🎓 Jeeyeon </h1></div>
+<div align=center><h2>🎓 Jeeyeon </h2></div>
 <div align=center>
   <h3> Seoul Women's University Digital Media Graduation (2018.3 ~ 2022.8) </h3>
 <a href = "http://www.swudmgraduate.com/2022/project/detail/40"><img src="https://img.shields.io/badge/My Graduation Exhibition-006600?style=flat-square&logo=4chan&logoColor=white"/></a>
@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<div align=center><h1>📚 STUDING </h1></div>
+<div align=center><h2>📚 Studing </h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/JAVA-7A1FA2?style=flat-square&logo=Aiqfome&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-<div align=center><h1>🏆 Tools </h1></div>
+<div align=center><h2>🏆 Tools </h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Andriod-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
@@ -45,7 +45,7 @@
 <br>
 <br>
 
-<div align=center><h1>🌟 GitHub </h1></div>
+<div align=center><h2>🌟 GitHub </h2></div>
 <div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeeyeonn&count_private=true)        
