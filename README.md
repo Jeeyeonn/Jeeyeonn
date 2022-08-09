@@ -16,4 +16,8 @@
 - 서울여자대학교 디지털미디어학과 졸업 예정(2018.3 ~ 2022.8)
 
 ### 📚 Stack
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Andriod-3766AB?style=flat-square&logo=Andriod&logoColor=white"/></a>&nbsp 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeeyeonn&count_private=true)
