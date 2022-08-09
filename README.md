@@ -19,5 +19,6 @@
 <img src="https://img.shields.io/badge/Andriod-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>  </a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>  </a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  </a>
+<img src="https://img.shields.io/badge/Unity-FF791A?style=flat-square&logo=Unity&logoColor=white"/>  </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeeyeonn&count_private=true)
