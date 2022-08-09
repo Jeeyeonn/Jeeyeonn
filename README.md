@@ -12,8 +12,10 @@
 
 ### 👩🏻‍🎓 Jeeyeon
 
-- Seoul Women's University Digital Media Graduation (2018.3 ~ 2022.8)
+- Seoul Women's University Digital Media Graduation (2018.3 ~ 2022.8)  
+
 <a href = "http://www.swudmgraduate.com/2022/project/detail/40"><img src="https://img.shields.io/badge/My Graduation Exhibition-006600?style=flat-square&logo=4chan&logoColor=white"/></a>
+<a href = "https://jeeyeonn.notion.site/Park-Jiyeon-23c8bec34cdc4f7ead1adf2f3cfcfc43"><img src="https://img.shields.io/badge/My Notion Link-00148C?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ### 📚 Studing 
 <img src="https://img.shields.io/badge/Andriod-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>>
